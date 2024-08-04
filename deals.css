@@ -1,0 +1,22 @@
+.price
+  {
+    font-weight: 500;
+    font-size: 40px;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  
+  .box-design
+  {
+    box-shadow: 20px 20px 50px rgb(184, 179, 179);
+  }
+
+.details
+{
+    position:absolute;
+    top:18px;
+    left:30px;
+    right:290px;
+    bottom:-20px;
+    background-color: rgba(255, 255, 255,0.7);
+    
+}
